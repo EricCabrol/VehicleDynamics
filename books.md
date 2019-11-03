@@ -35,33 +35,62 @@ Quite advanced, and rather short on illustrations. 621 pages.
  
 The first edition (1991) was printed by Cambridge University Press.
 
- The author also wrote **The Shock Absorber Handbook** and **Suspension Geometry and computation**
+ The author also wrote _The Shock Absorber Handbook_ and _Suspension Geometry and computation_
 
 * T. Gillespie, **Fundamentals of Vehicle Dynamics**, 1992, Society of Automotive Engineers (SAE)
 
-The only classic without any updated edition ? 
+The only classic without any updated edition ? Looks quite old now.
 Poor review [here](https://www.amazon.com/gp/customer-reviews/R104E7C5XMGASH/ref=cm_cr_arp_d_viewpnt?ie=UTF8&ASIN=1560911999#R104E7C5XMGASH) on Amazon.
 
 Chapters :
-1. Acceleration performance
-2. Braking performance
-3. Road loads
-4. Ride
-5. Steady-state cornering
-6. Suspension
-7. Steering system
-8. Rollover
-9. Tires
+1. Introduction
+2. Acceleration performance
+3. Braking performance
+4. Road loads
+5. Ride
+6. Steady-state cornering
+7. Suspension
+8. Steering system
+9. Rollover
+10. Tires
 
 
 * W. Milliken & D. Milliken, Race Car Vehicle Dynamics, 1995, SAE
-* G. Genta."Motor Vehicle Dynamics. Modeling and Simulation". World Scientific. 1997.
 * W. Milliken & D. Milliken, Chassis Design - Principles and Analysis, 2002, SAE
-* R. Bosch. Automotive Handbook, 5th edition. 2002. SAE
-* Heinz Heisler, Advanced Vehicle Technology,Butterworth-Heinmann,Oxford,2002
-* Rajesh Rajamani, Vehicle Dynamics and Control, Springer, 2006
-* Reza N Jazar, Vehicle Dynamics, Theory and Applications,Springer, 2007
-* Julian Happien-Smith, An Introduction to Modern Vehicle Design,Butterworth-Heinmann, 2002
+
+* G. Genta."Motor Vehicle Dynamics. Modeling and Simulation". World Scientific. 1997.
+
+### The more recent books ###
+
+* **Rajesh Rajamani, _Vehicle Dynamics and Control_ (2012)**
+
+Editor : Springer / 2nd edition : 2012 / 1st edition : 2006
+
+In the second edition of the book, chapters on roll dynamics, rollover prevention and hybrid electric vehicles have been added, and the chapter on electronic stability control has been enhanced.
+
+Chapters : 
+1. Introduction
+2. Lateral Vehicle Dynamics
+3. Steering Control for Automated Lane Keeping
+4. Longitudinal Vehicle Dynamics
+5. Introduction to Longitudinal Control
+6. Adaptive Cruise Control
+7. Longitudinal Control for Vehicle Platoons
+8. Electronic Stability Control
+9. Mean Value Modeling of SI and Diesel Engines
+10. Design and Analysis of Passive Automotive Suspensions
+11. Active Automotive Suspensions
+12. Semi-Active Suspensions
+13. Lateral and Longitudinal Tire Forces
+14. Tire-Road Friction Measurement on Highway Vehicles
+15. Roll Dynamics and Rollover Prevention
+16. Dynamics and Control of Hybrid Gas Electric Vehicles
+
+* **Reza N Jazar, _Vehicle Dynamics, Theory and Application_ (2013)**
+
+Editor : Springer / 2nd edition : 2013 / 1st edition : 2008
+
+
 * Rao V Dukkipati and others, Road Vehicle Dynamics, SAE, 2008
 * Georg Rill, Road Vehicle Dynamics: Fundamentals and Modeling, 2011 
 
