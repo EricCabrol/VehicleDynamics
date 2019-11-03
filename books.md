@@ -2,9 +2,9 @@
 
 ### The reference about tires ###
 
-* **Hans B Pacejka, _Tyre and Vehicle Dynamics_, Delft University, The Netherlands**
+* **Hans B Pacejka, _Tyre and Vehicle Dynamics_, Butterworth-Heinemann, 2012 (3rd edition, 670 pages)**
 
-Pacejka is the author of the well-known Magic Formula, and his book is definitely an undisputed reference on the subject.
+Professor Pacejka from Delft University is the author of the well-known Magic Formula, and his book is definitely an undisputed reference on the subject.
 
 Three editions in 2002, 2006, 2012. 
 
@@ -54,7 +54,7 @@ Chapters :
 9. Tires
 
 
-* W. Milliken & D. Milliken, Race Car Vehicle Dynamics, 1995, SAE)
+* W. Milliken & D. Milliken, Race Car Vehicle Dynamics, 1995, SAE
 * G. Genta."Motor Vehicle Dynamics. Modeling and Simulation". World Scientific. 1997.
 * W. Milliken & D. Milliken, Chassis Design - Principles and Analysis, 2002, SAE
 * R. Bosch. Automotive Handbook, 5th edition. 2002. SAE
@@ -65,3 +65,9 @@ Chapters :
 * Rao V Dukkipati and others, Road Vehicle Dynamics, SAE, 2008
 * Georg Rill, Road Vehicle Dynamics: Fundamentals and Modeling, 2011 
 
+
+### French-speaking only ###
+
+* **Thierry Halconruy, _Les liaisons au sol_, 1995, ETAI (200 pages)**
+
+* **Jean-Pierre Brossard, _Dynamique du véhicule: Modélisation des systèmes complexes_, 2013 (710 pages)**
