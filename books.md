@@ -10,7 +10,9 @@ Three editions in 2002, 2006, 2012.
 
 ### The classic ones ###
 
-* **J.Y. Wong. _Theory of Ground Vehicles_, John Wiley & sons, 2008 (4th edition, 560 pages)**
+* **J.Y. Wong. _Theory of Ground Vehicles_, 2008**
+
+Editor : Wiley / 1st edition : 1978 / 2nd ed : 1993 / 3rd ed : 2001 / 4th ed : 2008 (560 pages)
 
 Covers off-road vehicles, including tractors, etc. Includes a whole chapter on "terramechanics" (vehicle terrain interaction).
 
@@ -27,17 +29,19 @@ Seven chapters (see details on [wiley](https://www.wiley.com/en-us/Theory+of+Gro
 The original edition (350 pages) was published in 1978. The 2nd edition in 1993 and the third edition in 2001.
 
 
-* **John C Dixon, _Tires, Suspension and Handling_, 1996 (2nd edition, SAE International)**
+* **John C Dixon, _Tires, Suspension and Handling_, 1996**
+
+1st edition : 1991 (Cambridge Univ. Press) / 2nd edition : 1996 (SAE International)
 
 Quite advanced, and rather short on illustrations. 621 pages.
  
  No ebook available on [google books](https://books.google.fr/books?id=r6pTAAAAMAAJ), you can find the paper version on ([amazon](https://www.amazon.fr/Tires-Suspension-Handling-John-Dixon/dp/1560918314)).
  
-The first edition (1991) was printed by Cambridge University Press.
-
  The author also wrote _The Shock Absorber Handbook_ and _Suspension Geometry and computation_
 
-* T. Gillespie, **Fundamentals of Vehicle Dynamics**, 1992, Society of Automotive Engineers (SAE)
+* **T. Gillespie, Fundamentals of Vehicle Dynamics, 1992**
+
+Editor : SAE / 1st edition : 1992
 
 The only classic without any updated edition ? Looks quite old now.
 Poor review [here](https://www.amazon.com/gp/customer-reviews/R104E7C5XMGASH/ref=cm_cr_arp_d_viewpnt?ie=UTF8&ASIN=1560911999#R104E7C5XMGASH) on Amazon.
