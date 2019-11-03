@@ -62,6 +62,15 @@ Chapters :
 
 ### The more recent books ###
 
+* **Reza N Jazar, _Vehicle Dynamics, Theory and Application_ (2017)**
+
+Editor : Springer / 1st edition : 2008 (1036 p.) / 2nd edition : 2014 (1066 p.) / 3rd edition : 2017 (988 p.)
+
+Springer website claims that the 3rd edition has been reduced by 25% ("to allow for coverage over one semester"), but there is still approximately one thousand pages ...
+
+Professor Jazar also wrote _Advanced Vehicle Dynamics_ published in 2019, rather intended for post-graduate students.
+
+
 * **Rajesh Rajamani, _Vehicle Dynamics and Control_ (2012)**
 
 Editor : Springer / 1st edition : 2006, 500 pages / 2nd edition : 2012, 524 pages
@@ -85,11 +94,6 @@ Chapters :
 14. Tire-Road Friction Measurement on Highway Vehicles
 15. Roll Dynamics and Rollover Prevention
 16. Dynamics and Control of Hybrid Gas Electric Vehicles
-
-* **Reza N Jazar, _Vehicle Dynamics, Theory and Application_ (2017)**
-
-Editor : Springer / 1st edition : 2008 / 2nd edition : 2014 (1066 p.) / 3rd edition : 2017 (988 p.)
-
 
 
 
