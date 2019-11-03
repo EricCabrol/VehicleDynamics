@@ -1,8 +1,16 @@
 ## Some major books about Vehicle Dynamics
 
+### The reference about tires ###
+
+* **Hans B Pacejka, _Tyre and Vehicle Dynamics_, Delft University, The Netherlands**
+
+Pacejka is the author of the well-known Magic Formula, and his book is definitely an undisputed reference on the subject.
+
+Three editions in 2002, 2006, 2012. 
+
 ### The classic ones ###
 
-* J.Y. Wong. **Theory of Ground Vehicles**, John Wiley & sons, 2008 (4th edition, 560 pages).
+* **J.Y. Wong. _Theory of Ground Vehicles_, John Wiley & sons, 2008 (4th edition, 560 pages)**
 
 Covers off-road vehicles, including tractors, etc. Includes a whole chapter on "terramechanics" (vehicle terrain interaction).
 
@@ -19,7 +27,7 @@ Seven chapters (see details on [wiley](https://www.wiley.com/en-us/Theory+of+Gro
 The original edition (350 pages) was published in 1978. The 2nd edition in 1993 and the third edition in 2001.
 
 
-* John C Dixon, **Tires, Suspension and Handling**, 1996 (2nd edition, SAE International)
+* **John C Dixon, _Tires, Suspension and Handling_, 1996 (2nd edition, SAE International)**
 
 Quite advanced, and rather short on illustrations. 621 pages.
  
@@ -31,8 +39,19 @@ The first edition (1991) was printed by Cambridge University Press.
 
 * T. Gillespie, **Fundamentals of Vehicle Dynamics**, 1992, Society of Automotive Engineers (SAE)
 
-The only classic without any updated edition ?
+The only classic without any updated edition ? 
 Poor review [here](https://www.amazon.com/gp/customer-reviews/R104E7C5XMGASH/ref=cm_cr_arp_d_viewpnt?ie=UTF8&ASIN=1560911999#R104E7C5XMGASH) on Amazon.
+
+Chapters :
+1. Acceleration performance
+2. Braking performance
+3. Road loads
+4. Ride
+5. Steady-state cornering
+6. Suspension
+7. Steering system
+8. Rollover
+9. Tires
 
 
 * W. Milliken & D. Milliken, Race Car Vehicle Dynamics, 1995, SAE)
@@ -41,7 +60,6 @@ Poor review [here](https://www.amazon.com/gp/customer-reviews/R104E7C5XMGASH/ref
 * R. Bosch. Automotive Handbook, 5th edition. 2002. SAE
 * Heinz Heisler, Advanced Vehicle Technology,Butterworth-Heinmann,Oxford,2002
 * Rajesh Rajamani, Vehicle Dynamics and Control, Springer, 2006
-* Hans B Pacejka, Tyre and Vehicle Dynamics, Delft University, The Netherlands
 * Reza N Jazar, Vehicle Dynamics, Theory and Applications,Springer, 2007
 * Julian Happien-Smith, An Introduction to Modern Vehicle Design,Butterworth-Heinmann, 2002
 * Rao V Dukkipati and others, Road Vehicle Dynamics, SAE, 2008
