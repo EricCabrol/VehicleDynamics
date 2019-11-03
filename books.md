@@ -64,7 +64,7 @@ Chapters :
 
 * **Rajesh Rajamani, _Vehicle Dynamics and Control_ (2012)**
 
-Editor : Springer / 2nd edition : 2012 / 1st edition : 2006
+Editor : Springer / 1st edition : 2006, 500 pages / 2nd edition : 2012, 524 pages
 
 In the second edition of the book, chapters on roll dynamics, rollover prevention and hybrid electric vehicles have been added, and the chapter on electronic stability control has been enhanced.
 
@@ -86,13 +86,11 @@ Chapters :
 15. Roll Dynamics and Rollover Prevention
 16. Dynamics and Control of Hybrid Gas Electric Vehicles
 
-* **Reza N Jazar, _Vehicle Dynamics, Theory and Application_ (2013)**
+* **Reza N Jazar, _Vehicle Dynamics, Theory and Application_ (2017)**
 
-Editor : Springer / 2nd edition : 2013 / 1st edition : 2008
+Editor : Springer / 1st edition : 2008 / 2nd edition : 2014 (1066 p.) / 3rd edition : 2017 (988 p.)
 
 
-* Rao V Dukkipati and others, Road Vehicle Dynamics, SAE, 2008
-* Georg Rill, Road Vehicle Dynamics: Fundamentals and Modeling, 2011 
 
 
 ### French-speaking only ###
@@ -100,3 +98,10 @@ Editor : Springer / 2nd edition : 2013 / 1st edition : 2008
 * **Thierry Halconruy, _Les liaisons au sol_, 1995, ETAI (200 pages)**
 
 * **Jean-Pierre Brossard, _Dynamique du véhicule: Modélisation des systèmes complexes_, 2013 (710 pages)**
+
+
+
+### Some I haven't read .. yet :) ###
+
+* Rao V Dukkipati and others, Road Vehicle Dynamics, SAE, 2008
+* Georg Rill, Road Vehicle Dynamics: Fundamentals and Modeling, 2011 
