@@ -1,12 +1,22 @@
 ## Some major books about Vehicle Dynamics
 
-# The classic ones #
+### The classic ones ###
 
 * J.Y. Wong. **Theory of Ground Vehicles**, John Wiley & sons, 2008 (4th edition, 560 pages).
 
 Covers off-road vehicles, including tractors, etc. Includes a whole chapter on "terramechanics" (vehicle terrain interaction).
 
-The original edition (350 pages) was published in 1978.
+Seven chapters (see details on [wiley](https://www.wiley.com/en-us/Theory+of+Ground+Vehicles%2C+4th+Edition-p-9780470170380) website)
+  1. MECHANICS OF PNEUMATIC TIRES.
+  2. MECHANICS OF VEHICLE-TERRAIN INTERACTION--TERRAMECHANICS.
+  3. PERFORMANCE CHARACTERISTICS OF ROAD VEHICLES.
+  4. PERFORMANCE CHARACTERISTICS OF OFF-ROAD VEHICLES.
+  5. HANDLING CHARACTERISTICS OF ROAD VEHICLES.
+  6. STEERING OF TRACKED VEHICLES.
+  7. VEHICLE RIDE CHARACTERISTICS.
+  8. INTRODUCTION TO AIR-CUSHION VEHICLES.
+  
+The original edition (350 pages) was published in 1978. The 2nd edition in 1993 and the third edition in 2001.
 
 
 * John C Dixon, **Tires, Suspension and Handling**, 1996 (2nd edition, SAE International)
@@ -21,6 +31,7 @@ The first edition (1991) was printed by Cambridge University Press.
 
 * T. Gillespie, **Fundamentals of Vehicle Dynamics**, 1992, Society of Automotive Engineers (SAE)
 
+The only classic without any updated edition ?
 Poor review [here](https://www.amazon.com/gp/customer-reviews/R104E7C5XMGASH/ref=cm_cr_arp_d_viewpnt?ie=UTF8&ASIN=1560911999#R104E7C5XMGASH) on Amazon.
 
 
