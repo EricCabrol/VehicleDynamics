@@ -1,8 +1,15 @@
 ## Some major books about Vehicle Dynamics
 
 
-* John C Dixon, **Tires, Suspension and Handling**,Cambridge University Press, 1991
-2nd edition ([amazon](https://www.amazon.fr/Tires-Suspension-Handling-John-Dixon/dp/1560918314)) was printed by SAE International in 1996, while first edition was from Cambridge University Press, 1991
+* John C Dixon, **Tires, Suspension and Handling**, 1996 (2nd edition, SAE International)
+
+ The first edition (1991), printed in 1991 by Cambridge University Press, was one of the first reference books on the subject. Quite advanced, and rather short on illustrations, 
+ 
+ No ebook available on [google books](https://books.google.fr/books?id=r6pTAAAAMAAJ), you can find the paper version on ([amazon](https://www.amazon.fr/Tires-Suspension-Handling-John-Dixon/dp/1560918314)).
+
+ The author also wrote **The Shock Absorber Handbook** and **Suspension Geometry and computation**
+
+
 
 * T. Gillespie, **Fundamentals of Vehicle Dynamics**, 1992, Society of Automotive Engineers (SAE)
 
