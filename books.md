@@ -49,10 +49,11 @@ Poor review [here](https://www.amazon.com/gp/customer-reviews/R104E7C5XMGASH/ref
 
 <sub><sup> Chapters : 1. Introduction / 2. Acceleration performance / 3. Braking performance / 4. Road loads / 5. Ride /  6. Steady-state cornering  / 7. Suspension /  8. Steering system /  9. Rollover /  10. Tires</sub></sup>
 
-* W. Milliken & D. Milliken, Race Car Vehicle Dynamics, 1995, SAE
-* W. Milliken & D. Milliken, Chassis Design - Principles and Analysis, 2002, SAE
+* **W. Milliken & D. Milliken, Race Car Vehicle Dynamics, 1995, SAE**
 
-* G. Genta."Motor Vehicle Dynamics. Modeling and Simulation". World Scientific. 1997.
+* **W. Milliken & D. Milliken, Chassis Design - Principles and Analysis, 2002, SAE**
+
+* **G. Genta."Motor Vehicle Dynamics. Modeling and Simulation". World Scientific. 1997.**
 
 ### The more recent books ###
 
