@@ -16,15 +16,16 @@ Editor : Wiley / 1st edition : 1978 / 2nd ed : 1993 / 3rd ed : 2001 / 4th ed : 2
 
 Covers off-road vehicles, including tractors, etc. Includes a whole chapter on "terramechanics" (vehicle terrain interaction).
 
-Seven chapters (see details on [wiley](https://www.wiley.com/en-us/Theory+of+Ground+Vehicles%2C+4th+Edition-p-9780470170380) website)
-  1. MECHANICS OF PNEUMATIC TIRES.
+Seven chapters (see details on [wiley](https://www.wiley.com/en-us/Theory+of+Ground+Vehicles%2C+4th+Edition-p-9780470170380) website).
+
+<sub><sup>  1. MECHANICS OF PNEUMATIC TIRES. 
   2. MECHANICS OF VEHICLE-TERRAIN INTERACTION--TERRAMECHANICS.
   3. PERFORMANCE CHARACTERISTICS OF ROAD VEHICLES.
   4. PERFORMANCE CHARACTERISTICS OF OFF-ROAD VEHICLES.
   5. HANDLING CHARACTERISTICS OF ROAD VEHICLES.
   6. STEERING OF TRACKED VEHICLES.
   7. VEHICLE RIDE CHARACTERISTICS.
-  8. INTRODUCTION TO AIR-CUSHION VEHICLES.
+  8. INTRODUCTION TO AIR-CUSHION VEHICLES.</sub></sup>
   
 The original edition (350 pages) was published in 1978. The 2nd edition in 1993 and the third edition in 2001.
 
@@ -46,7 +47,7 @@ Editor : SAE / 1st edition : 1992
 The only classic without any updated edition ? Looks quite old now.
 Poor review [here](https://www.amazon.com/gp/customer-reviews/R104E7C5XMGASH/ref=cm_cr_arp_d_viewpnt?ie=UTF8&ASIN=1560911999#R104E7C5XMGASH) on Amazon.
 
-Chapters :
+<sub><sup> Chapters :
 1. Introduction
 2. Acceleration performance
 3. Braking performance
@@ -56,8 +57,7 @@ Chapters :
 7. Suspension
 8. Steering system
 9. Rollover
-10. Tires
-
+10. Tires</sub></sup>
 
 * W. Milliken & D. Milliken, Race Car Vehicle Dynamics, 1995, SAE
 * W. Milliken & D. Milliken, Chassis Design - Principles and Analysis, 2002, SAE
