@@ -18,7 +18,7 @@ Covers off-road vehicles, including tractors, etc. Includes a whole chapter on "
 
 Seven chapters (see details on [wiley](https://www.wiley.com/en-us/Theory+of+Ground+Vehicles%2C+4th+Edition-p-9780470170380) website).
 
-<sub><sup>  1. MECHANICS OF PNEUMATIC TIRES. 
+<sub><sup> Chapters : 1. MECHANICS OF PNEUMATIC TIRES. 
   2. MECHANICS OF VEHICLE-TERRAIN INTERACTION--TERRAMECHANICS.
   3. PERFORMANCE CHARACTERISTICS OF ROAD VEHICLES.
   4. PERFORMANCE CHARACTERISTICS OF OFF-ROAD VEHICLES.
@@ -47,17 +47,7 @@ Editor : SAE / 1st edition : 1992
 The only classic without any updated edition ? Looks quite old now.
 Poor review [here](https://www.amazon.com/gp/customer-reviews/R104E7C5XMGASH/ref=cm_cr_arp_d_viewpnt?ie=UTF8&ASIN=1560911999#R104E7C5XMGASH) on Amazon.
 
-<sub><sup> Chapters :
-1. Introduction
-2. Acceleration performance
-3. Braking performance
-4. Road loads
-5. Ride
-6. Steady-state cornering
-7. Suspension
-8. Steering system
-9. Rollover
-10. Tires</sub></sup>
+<sub><sup> Chapters : 1. Introduction / 2. Acceleration performance / 3. Braking performance / 4. Road loads / 5. Ride /  6. Steady-state cornering  / 7. Suspension /  8. Steering system /  9. Rollover /  10. Tires</sub></sup>
 
 * W. Milliken & D. Milliken, Race Car Vehicle Dynamics, 1995, SAE
 * W. Milliken & D. Milliken, Chassis Design - Principles and Analysis, 2002, SAE
@@ -81,23 +71,7 @@ Editor : Springer / 1st edition : 2006, 500 pages / 2nd edition : 2012, 524 page
 
 In the second edition of the book, chapters on roll dynamics, rollover prevention and hybrid electric vehicles have been added, and the chapter on electronic stability control has been enhanced.
 
-Chapters : 
-1. Introduction
-2. Lateral Vehicle Dynamics
-3. Steering Control for Automated Lane Keeping
-4. Longitudinal Vehicle Dynamics
-5. Introduction to Longitudinal Control
-6. Adaptive Cruise Control
-7. Longitudinal Control for Vehicle Platoons
-8. Electronic Stability Control
-9. Mean Value Modeling of SI and Diesel Engines
-10. Design and Analysis of Passive Automotive Suspensions
-11. Active Automotive Suspensions
-12. Semi-Active Suspensions
-13. Lateral and Longitudinal Tire Forces
-14. Tire-Road Friction Measurement on Highway Vehicles
-15. Roll Dynamics and Rollover Prevention
-16. Dynamics and Control of Hybrid Gas Electric Vehicles
+<sub><sup> Chapters : 1. Introduction / 2. Lateral Vehicle Dynamics  / 3. Steering Control for Automated Lane Keeping / 4. Longitudinal Vehicle Dynamics  / 5. Introduction to Longitudinal Control / 6. Adaptive Cruise Control / 7. Longitudinal Control for Vehicle Platoons / 8. Electronic Stability Control / 9. Mean Value Modeling of SI and Diesel Engines / 10. Design and Analysis of Passive Automotive Suspensions / 11. Active Automotive Suspensions / 12. Semi-Active Suspensions / 13. Lateral and Longitudinal Tire Forces / 14. Tire-Road Friction Measurement on Highway Vehicles / 15. Roll Dynamics and Rollover Prevention / 16. Dynamics and Control of Hybrid Gas Electric Vehicles</sub></sup>
 
 
 
