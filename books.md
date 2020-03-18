@@ -36,7 +36,7 @@ The original edition (350 pages) was published in 1978. The 2nd edition in 1993 
 
 Quite advanced, and rather short on illustrations. 621 pages.
  
- No ebook available on [google books](https://books.google.fr/books?id=r6pTAAAAMAAJ), you can find the paper version on ([amazon](https://www.amazon.fr/Tires-Suspension-Handling-John-Dixon/dp/1560918314)).
+ No ebook available on [google books](https://books.google.fr/books?id=r6pTAAAAMAAJ), you can find the paper version on [amazon](https://www.amazon.fr/Tires-Suspension-Handling-John-Dixon/dp/1560918314).
  
  The author also wrote _The Shock Absorber Handbook_ and _Suspension Geometry and computation_
 
