@@ -11,11 +11,8 @@ Professor Pacejka from Delft University is the author of the well-known Magic Fo
 
 * **J.Y. Wong. _Theory of Ground Vehicles_ (1978 - 1993 - 2001 - 2008)**
 
-560 pages<br />
+560 pages. Seven chapters (see details on [wiley](https://www.wiley.com/en-us/Theory+of+Ground+Vehicles%2C+4th+Edition-p-9780470170380) website).<br />
 Covers off-road vehicles, including tractors, etc. Includes a whole chapter on "terramechanics" (vehicle terrain interaction).
-Seven chapters (see details on [wiley](https://www.wiley.com/en-us/Theory+of+Ground+Vehicles%2C+4th+Edition-p-9780470170380) website).
-  
-
 
 * **John C Dixon, _Tires, Suspension and Handling_ (1991 - 1996)**
 
