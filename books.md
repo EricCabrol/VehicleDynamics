@@ -4,7 +4,7 @@
 
 * **Hans B Pacejka, _Tyre and Vehicle Dynamics_, Butterworth-Heinemann, (2002 - 2006 - 2012)**
 
-670 pages
+670 pages<br />
 Professor Pacejka from Delft University is the author of the well-known Magic Formula, and his book is definitely an undisputed reference on the subject.
 
 ### The classic ones ###
