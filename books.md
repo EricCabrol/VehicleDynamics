@@ -23,8 +23,10 @@ No ebook available on [Google Books](https://books.google.fr/books?id=r6pTAAAAMA
 
 * **T. Gillespie, _Fundamentals of Vehicle Dynamics_ (1992)**
 
-The only classic without any updated edition ? Looks quite old now.
-Poor review [here](https://www.amazon.com/gp/customer-reviews/R104E7C5XMGASH/ref=cm_cr_arp_d_viewpnt?ie=UTF8&ASIN=1560911999#R104E7C5XMGASH) on Amazon.
+Intermediate level. <br />
+The only classic without any updated edition ? Looks quite old now. Chapters about acceleration and braking performance, road load (aerodynamics, rolling resistance, ride, steady-state cornering, suspensions, steering system, rollover, tires. 
+Some examples with solutions at the end of each chapter.
+
 
 * **W. Milliken & D. Milliken, _Race Car Vehicle Dynamics_ (1995)**
 
