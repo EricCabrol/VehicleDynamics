@@ -29,10 +29,13 @@ The chapter dedicated to **tire modelling** is very brief (10 pages), almost equ
 **Linear models** are then introduced, starting with the *yaw plane* model for cornering dynamics (often called bicycle model in the literature). The classical first-order system is derived and its applications are illustrated, both for steady-state analysis and for transient behaviour. Stability conditions are discussed, explaining clearly the influence of the front/rear location of the center of gravity. A *truck and trailer* model is also presented.  
 For vertical motion, two models are presented : *quarter-car* for suspension analysis, and *bounce-pitch* for vehicle body motion.
 
+A **full-car model** is presented in chapter 5, restricted to bounce, pitch and roll motions (no longitudinal neither lateral equations). The way this chapter is built doesn't seem as obvious as the previous ones. Firstly some pages more heavily loadedof equations and linear algebra, just to conclude that the problem becomes too big to be solved by hand and must be computed numerically. Then only a few lines to comment the results obtained and detail the corresponding modes. Then we get back to more physics with a paragraph about kinematic effects (roll centers, jacking effects ...), but I don't understand the timing. 
 
-**What I did appreciate**
+Chapter 6 about **Multibody dynamics** becomes more theoretical, explaining how the governing equations are generated. 
+
+**What I did appreciate**  
 The main concepts are clearly explained. The balance between equations and text is fine. Most of the equations are "interpreted", and their consequences highlighted. 
 
 
 
-Some conventions can be confusing : for example damping matrix is called `L`, and yaw rate is called `r`, longitudinal velocity is called `u`, while `v` is the lateral velocity ... 
+Some conventions can be confusing : for example damping matrix is called `L`, and yaw rate is called `r`, longitudinal velocity is called `u`, while `v` is the lateral velocity ... SAE sign conventions are used 
