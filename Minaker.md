@@ -45,7 +45,8 @@ In the last chapter about **Mathematics** I liked the focus on the difference be
 * Most of the equations come with interpretations. 
 
 **I was less convinced by**
-* 25 pages about mathematical principles at the end, but only 10 pages about tire modelling in chapter 1 ? Odd choice !
+* 25 pages about mathematics at the end, but only 10 pages about tire modelling in chapter 1 ? Odd choice !
+* the structure of chapter 5 about full-car modelling.
 * Some non-intuitive conventions : for example damping matrix is called `L`,  yaw rate is called `r`. Longitudinal velocity is called `u` while `v` is the lateral velocity ... SAE sign conventions are used (except in chapter 6, but the reader is warned)
 * The quite high $/page cost :)  
 
