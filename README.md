@@ -1,6 +1,7 @@
 # VehicleDynamics
 
-A personal list of [Reference books](https://github.com/EricCabrol/VehicleDynamics/blob/master/books.md)
+[Reference books](https://github.com/EricCabrol/VehicleDynamics/blob/master/books.md) : a personal list
 
-An open-source implementation of Pacejka's Magic Formula : [MFEval](https://www.mathworks.com/matlabcentral/fileexchange/63618-mfeval)
-(made available by Marco Furlan of Jaguar Land-Rover for versions 5.2, 6.1 and 6.2)
+[**Fundamentals of Vehicle Dynamics and Modelling**](https://github.com/EricCabrol/VehicleDynamics/blob/master/Minaker.md) : my review of Bruce Minaker's 2019 book 
+
+[MFEval](https://www.mathworks.com/matlabcentral/fileexchange/63618-mfeval) : an open-source implementation of Pacejka's Magic Formula (made available by Marco Furlan of Jaguar Land-Rover for versions 5.2, 6.1 and 6.2)
