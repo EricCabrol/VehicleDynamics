@@ -22,11 +22,17 @@ Chapters
 
 Most chapters are illustrated with a few numerical examples, and also with problems (no solutions given).
 
-The chapter dedicated to **tire modelling** is very brief (10 pages), almost equation-free (no Magic Formula inside !), it is a very basic introduction to the underlying physics.
+The chapter dedicated to **tire modelling** is very brief (10 pages), almost equation-free (no Magic Formula inside !), it is a  basic introduction to the underlying physics.
 
 **Longitudinal dynamics** deals with acceleration and braking performance, with a focus on load transfer. The optimal brake distribution is very clearly explained. 
 
-Then **linear models** are introduced, starting with the *yaw plane* model (often called bicycle model in the literature) where a first-order system is derived and its application, both for steady-state analysis and for transient behaviour, introducing stability conditions, and clearly explaining the influence of the front/rear location of the center of gravity. 
+**Linear models** are then introduced, starting with the *yaw plane* model for cornering dynamics (often called bicycle model in the literature). The classical first-order system is derived and its applications are illustrated, both for steady-state analysis and for transient behaviour. Stability conditions are discussed, explaining clearly the influence of the front/rear location of the center of gravity. A *truck and trailer* model is also presented.  
+For vertical motion, two models are presented : *quarter-car* for suspension analysis, and *bounce-pitch* for vehicle body motion.
+
+
+**What I did appreciate**
+The main concepts are clearly explained. The balance between equations and text is fine. Most of the equations are "interpreted", and their consequences highlighted. 
+
 
 
 Some conventions can be confusing : for example damping matrix is called `L`, and yaw rate is called `r`, longitudinal velocity is called `u`, while `v` is the lateral velocity ... 
