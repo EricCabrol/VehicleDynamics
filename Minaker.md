@@ -9,9 +9,9 @@ The [preface](https://books.google.fr/books?id=-HCqDwAAQBAJ&pg=PA1&hl=fr&source=
 > (...)  
 > **The book does not aim to be a complete reference, but rather to give a solid foundation while generating enthusiasm in the student reader**
 
-As a result the book is rather short (a little less than 200 pages) ... which results in a high $/page cost :)  
+As a result the book is rather short (a little less than 200 pages) 
 
-Chapters 
+** Chapters **
 1. Introduction
 2. Tire Modelling
 3. Longitudinal dynamics
@@ -34,10 +34,16 @@ Then we get back to more physics with a couple of pages about kinematic effects 
 
 Chapter 6 about **Multibody dynamics** becomes more theoretical, explaining how the governing equations are generated. I would have liked to see a paragraph explaining the fundamental difference between pure multibody softwares and solvers based on prior symbolic resolution of the equations of motion (like all the commercial softwares dedicated to vehicle dynamics)
 
-
-**What I did appreciate**  
-The main concepts are clearly explained. The balance between equations and text is fine. Most of the equations come with interpretations. 
+In the last chapter about **Mathematics** I appreciate the focus on the difference between algebraic and differential equations, often not well known.  
 
 
+### Conclusion 
 
-Some conventions can be confusing : for example damping matrix is called `L`, and yaw rate is called `r`, longitudinal velocity is called `u`, while `v` is the lateral velocity ... SAE sign conventions are used 
+**I did appreciate that**  
+* The main concepts are clearly explained.
+* The balance between "theory" and "physics" is fine. 
+* Most of the equations come with interpretations. 
+
+** I was less convinced by **
+* The quite high $/page cost :)  
+* Some non-intuitive conventions : for example damping matrix is called `L`, and yaw rate is called `r`, longitudinal velocity is called `u`, while `v` is the lateral velocity ... SAE sign conventions are used (except in chapter 6, but the reader is warned)
