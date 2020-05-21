@@ -26,15 +26,17 @@ The chapter dedicated to **tire modelling** is very brief (10 pages), almost equ
 
 **Longitudinal dynamics** deals with acceleration and braking performance, with a focus on load transfer. The optimal brake distribution is very clearly explained. 
 
-**Linear models** are then introduced, starting with the *yaw plane* model for cornering dynamics (often called bicycle model in the literature). The classical first-order system is derived and its applications are illustrated, both for steady-state analysis and for transient behaviour. Stability conditions are discussed, explaining clearly the influence of the front/rear location of the center of gravity. A *truck and trailer* model is also presented.  
+**Linear models** are then introduced, starting with the *yaw plane* model for cornering dynamics (often called bicycle model in the literature). The classical first-order system is derived and its applications are illustrated, both for steady-state analysis and for transient behaviour. Stability conditions are discussed, explaining clearly the influence of the location of the center of gravity. A *truck and trailer* model is also presented.  
 For vertical motion, two models are presented : *quarter-car* for suspension analysis, and *bounce-pitch* for vehicle body motion.
 
-A **full-car model** is presented in chapter 5, restricted to bounce, pitch and roll motions (no longitudinal neither lateral equations). The way this chapter is built doesn't seem as obvious as the previous ones. Firstly some pages more heavily loadedof equations and linear algebra, just to conclude that the problem becomes too big to be solved by hand and must be computed numerically. Then only a few lines to comment the results obtained and detail the corresponding modes. Then we get back to more physics with a paragraph about kinematic effects (roll centers, jacking effects ...), but I don't understand the timing. 
+A **full-car model** is presented in chapter 5, restricted to bounce, pitch and roll motions (no longitudinal neither lateral equations). The way this chapter is built doesn't seem as obvious as the previous ones. Firstly some pages more heavily loaded of equations and linear algebra, just to conclude that the problem becomes too big to be solved by hand and must be computed numerically. Then only a few lines to comment the results obtained and detail the corresponding modes.  
+Then we get back to more physics with a couple of pages about kinematic effects (roll centers, jacking effects ...), but I don't understand the timing.  
 
-Chapter 6 about **Multibody dynamics** becomes more theoretical, explaining how the governing equations are generated. 
+Chapter 6 about **Multibody dynamics** becomes more theoretical, explaining how the governing equations are generated. I would have liked to see a paragraph explaining the fundamental difference between pure multibody softwares and solvers based on prior symbolic resolution of the equations of motion (like all the commercial softwares dedicated to vehicle dynamics)
+
 
 **What I did appreciate**  
-The main concepts are clearly explained. The balance between equations and text is fine. Most of the equations are "interpreted", and their consequences highlighted. 
+The main concepts are clearly explained. The balance between equations and text is fine. Most of the equations come with interpretations. 
 
 
 
