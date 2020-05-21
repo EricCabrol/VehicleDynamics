@@ -10,7 +10,6 @@ The [preface](https://books.google.fr/books?id=-HCqDwAAQBAJ&pg=PA1&hl=fr&source=
 > **The book does not aim to be a complete reference, but rather to give a solid foundation while generating enthusiasm in the student reader**
 
 As a result the book is rather short (a little less than 200 pages) ... which results in a high $/page cost :)  
-At the end of most chapters some problems can be found (without the solutions).
 
 Chapters 
 1. Introduction
@@ -21,12 +20,13 @@ Chapters
 6. Multibody dynamics
 7. Mathematics
 
-The chapter dedicated to **tire modelling** is very brief (10 pages), almost equation-free (no Magic Formula inside), it is a very basic introduction to the underlying physics.
+Most chapters are illustrated with a few numerical examples, and also with problems (no solutions given).
+
+The chapter dedicated to **tire modelling** is very brief (10 pages), almost equation-free (no Magic Formula inside !), it is a very basic introduction to the underlying physics.
 
 **Longitudinal dynamics** deals with acceleration and braking performance, with a focus on load transfer. The optimal brake distribution is very clearly explained. 
 
-Then **linear models** are introduced, starting with the *yaw plane* model (often called bicycle model in the literature) where a first-order system is derived. 
+Then **linear models** are introduced, starting with the *yaw plane* model (often called bicycle model in the literature) where a first-order system is derived and its application, both for steady-state analysis and for transient behaviour, introducing stability conditions, and clearly explaining the influence of the front/rear location of the center of gravity. 
 
 
-
-Some conventions can be confusing : for example damping matrix is called `L`, and yaw rate is called `r`
+Some conventions can be confusing : for example damping matrix is called `L`, and yaw rate is called `r`, longitudinal velocity is called `u`, while `v` is the lateral velocity ... 
