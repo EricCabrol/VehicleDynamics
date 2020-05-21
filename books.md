@@ -42,12 +42,14 @@ Some examples with solutions at the end of each chapter.
 Springer website claims that the 3rd edition has been reduced by 25% ("to allow for coverage over one semester"), but there is still approximately one thousand pages ...
 Professor Jazar also wrote _Advanced Vehicle Dynamics_ published in 2019, rather intended for post-graduate students.
 
-
 * **Rajesh Rajamani, _Vehicle Dynamics and Control_ (2006 - 2012)**
 
 524 pages<br />
 In the second edition of the book, chapters on roll dynamics, rollover prevention and hybrid electric vehicles have been added, and the chapter on electronic stability control has been enhanced.
 
+* **Bruce Minaker, _Fundamentals of Vehicle Dynamics and Modelling_ (2019)**
+
+See my [detailed review](https://github.com/EricCabrol/VehicleDynamics/blob/master/Minaker.md)
 
 ### French-speaking only ###
 
@@ -58,5 +60,6 @@ In the second edition of the book, chapters on roll dynamics, rollover preventio
 
 ### Some I haven't read .. yet :) ###
 
-* Rao V Dukkipati and others, Road Vehicle Dynamics, SAE, 2008
-* Georg Rill, Road Vehicle Dynamics: Fundamentals and Modeling, 2011 
+* Rao V Dukkipati and others, _Road Vehicle Dynamics_, SAE, 2008
+* Georg Rill, _Road Vehicle Dynamics: Fundamentals and Modeling_, 2011 
+* D. J. N. Limebeer and Matteo Massaro, _Dynamics and Optimal Control of Road Vehicles_, 2018
