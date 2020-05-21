@@ -23,3 +23,10 @@ Chapters
 
 The chapter dedicated to **tire modelling** is very brief (10 pages), almost equation-free (no Magic Formula inside), it is a very basic introduction to the underlying physics.
 
+**Longitudinal dynamics** deals with acceleration and braking performance, with a focus on load transfer. The optimal brake distribution is very clearly explained. 
+
+Then **linear models** are introduced, starting with the *yaw plane* model (often called bicycle model in the literature) where a first-order system is derived. 
+
+
+
+Some conventions can be confusing : for example damping matrix is called `L`, and yaw rate is called `r`
