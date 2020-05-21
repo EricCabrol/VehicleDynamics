@@ -8,3 +8,18 @@ The [preface](https://books.google.fr/books?id=-HCqDwAAQBAJ&pg=PA1&hl=fr&source=
 > I have found many texts on  this topic and others that, while providing good relevant coverage, add much more content than necessary. I believe that this level of breadth is not in the  reader's best interest, With many Ieft overwhelmed by the prospect of mastering so much material, and eventually resigning themselves to never finishing.  
 > (...)  
 > **The book does not aim to be a complete reference, but rather to give a solid foundation while generating enthusiasm in the student reader**
+
+As a result the book is rather short (a little less than 200 pages) ... which results in a high $/page cost :)  
+At the end of most chapters some problems can be found (without the solutions).
+
+Chapters 
+1. Introduction
+2. Tire Modelling
+3. Longitudinal dynamics
+4. Linear dynamic models
+5. Full car model
+6. Multibody dynamics
+7. Mathematics
+
+The chapter dedicated to **tire modelling** is very brief (10 pages), almost equation-free (no Magic Formula inside), it is a very basic introduction to the underlying physics.
+
