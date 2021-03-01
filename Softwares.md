@@ -1,5 +1,5 @@
 
-NB : the categories below reflect my personal view only, and not a "truth" (which doesn't exist)
+NB : the categories below only reflect my personal view. There is no such thing as "truth" here (except may be the market share figures, which I do not have). The most important point when choosing a software is to know if it fits your needs and requirements. 
 
 Champions
 * [IPG CarMaker](https://ipg-automotive.com/fr/produits-et-services/simulation-software/carmaker/), which is probably the heavyweight of this competition, used by many OEM and suppliers. But also the most expensive software, as far as I know :)
