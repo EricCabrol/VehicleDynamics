@@ -24,7 +24,7 @@ No ebook available on [Google Books](https://books.google.fr/books?id=r6pTAAAAMA
 * **T. Gillespie, _Fundamentals of Vehicle Dynamics_ (1992)**
 
 Intermediate level. <br />
-The only classic without any updated edition ? Looks quite old now. Chapters about acceleration and braking performance, road load (aerodynamics, rolling resistance, ride, steady-state cornering, suspensions, steering system, rollover, tires. 
+The only classic without any updated edition ? Looks quite old now. Chapters about acceleration and braking performance, road load, aerodynamics, rolling resistance, ride, steady-state cornering, suspensions, steering system, rollover, tires. 
 Some examples with solutions at the end of each chapter.
 
 
