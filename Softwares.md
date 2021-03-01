@@ -1,7 +1,7 @@
 
 NB : the categories below only reflect my personal view. There is no such thing as "truth" here (except may be the market share figures, which I do not have). The most important point when choosing a software is to know if it fits your needs and requirements. 
 
-Champions
+## Champions
 * [IPG CarMaker](https://ipg-automotive.com/fr/produits-et-services/simulation-software/carmaker/), which is probably the heavyweight of this competition, used by many OEM and suppliers. But also the most expensive software, as far as I know :)
 * [CarSim](https://www.carsim.com/). The company (Mechanical Simulation) was co-founded in 1996 by Thomas Gillespie, author of a [reference book](https://github.com/EricCabrol/VehicleDynamics/blob/master/books.md) about vehicle dynamics. 
 * [VI-CarRealTime](https://www.vi-grade.com/en/products/vi-carrealtime/). The company (VI-Grade) was created in 2005 as a spin-off from MSC Software.
@@ -10,7 +10,7 @@ Champions
 * [MSC Adams Real-Time](https://www.mscsoftware.com/fr/product/adams-real-time) for RT applications
  
 
-Challengers :
+## Challengers :
 * [Modelon Vehicle Dynamics Library](https://www.modelon.com/library/vehicle-dynamics-library), based on Modelica (... but not free :) )
 * [Simcenter Amesim](https://www.plm.automation.siemens.com/global/fr/products/simulation-test/vehicle-dynamics.html) with a dedicated Vehicle Dynamics library
 * [Simulink Vehicle Dynamics Blockset](https://www.mathworks.com/products/vehicle-dynamics.html) since Mathworks could not miss the field unoccupied :)
@@ -18,6 +18,6 @@ Challengers :
 * [dSpace ASM Vehicle Dynamics](https://www.dspace.com/en/pub/home/products/sw/automotive_simulation_models/produkte_asm/vehicle_dynamics_models.cfm), probably convenient for users of dSpace hardware.
 * [ChassisSim](https://www.chassissim.com/), with the excellent youtube channel animated by Danny Nowlan. Recently partnered with [Altair](https://altairengineering.fr/chassissim/)
 
-See also :
+## See also :
 * [SimVehicleLT](https://www.faac.com/realtime-technologies/products/simvehiclelt/) (not well known)
 * [MapleCar](https://www.maplesoft.com/webinars/recorded/featured.aspx?id=1288) : looks like a student project at that time
