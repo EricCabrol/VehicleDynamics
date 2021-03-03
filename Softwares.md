@@ -22,6 +22,10 @@ NB : the categories below only reflect my personal view. There is no such thing 
 * [SimVehicleLT](https://www.faac.com/realtime-technologies/products/simvehiclelt/) (not well known)
 * [MapleCar](https://www.maplesoft.com/webinars/recorded/featured.aspx?id=1288) : looks like a student project at that time
 
+
+
+---
+
 (*) If you want to know more about the difference between multibody solvers and dedicated vehicle dynamics softwares, you can have a look at the sixth slide of my document [Multibody simulation in 10 slides](https://github.com/EricCabrol/Short_stories/blob/master/multibody_simulation_resources_in_10slides.pdf).
 To make it simple, most softwares from the above list use a symbolic formulation for a predefined topology of the model (see for example the [14dof model](https://www.mathworks.com/help/vdynblks/ug/passenger-vehicle-dynamics-models.html) of Mathworks' VD BlockSet). If you want to add a body with its own dynamic, you can't ! But these softwares are fast, around 10 times faster than real-time.  
 With Adams/Car on the other hand you can do what you want, but it will (except in its real-time "simplified" version) not be real-time compliant. 
