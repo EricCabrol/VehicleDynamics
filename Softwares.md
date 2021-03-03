@@ -9,7 +9,7 @@ NB : the categories below only reflect my personal view. There is no such thing 
 * [MSC Adams/Car](https://www.mscsoftware.com/fr/product/adamscar) which unlike the others is a multibody solver, hence more "generic" but less computationally efficient (*). [Adams Real-Time](https://www.mscsoftware.com/fr/product/adams-real-time) is a "simplified" version for RT applications
  
 
-## Challengers :
+## Challengers
 * [Modelon Vehicle Dynamics Library](https://www.modelon.com/library/vehicle-dynamics-library), based on Modelica (... but not free :) )
 * [Simcenter Amesim](https://www.plm.automation.siemens.com/global/fr/products/simulation-test/vehicle-dynamics.html) with a dedicated Vehicle Dynamics library
 * [Simulink Vehicle Dynamics Blockset](https://www.mathworks.com/products/vehicle-dynamics.html) since Mathworks could not leave the field unoccupied :)
@@ -17,7 +17,7 @@ NB : the categories below only reflect my personal view. There is no such thing 
 * [dSpace ASM Vehicle Dynamics](https://www.dspace.com/en/pub/home/products/sw/automotive_simulation_models/produkte_asm/vehicle_dynamics_models.cfm)
 * [ChassisSim](https://www.chassissim.com/), with the excellent youtube channel animated by Danny Nowlan. Recently partnered with [Altair](https://altairengineering.fr/chassissim/)
 
-## See also :
+## See also
 * [SimVehicleLT](https://www.faac.com/realtime-technologies/products/simvehiclelt/) (not well known)
 * [MapleCar](https://www.maplesoft.com/webinars/recorded/featured.aspx?id=1288) : looks like a student project at that time
 
