@@ -12,7 +12,7 @@ NB : the categories below only reflect my personal view. There is no such thing 
 ## Challengers
 * [Modelon Vehicle Dynamics Library](https://www.modelon.com/library/vehicle-dynamics-library), based on Modelica (... but not free :) )
 * [Simcenter Amesim](https://www.plm.automation.siemens.com/global/fr/products/simulation-test/vehicle-dynamics.html) with a dedicated Vehicle Dynamics library
-* [Simulink Vehicle Dynamics Blockset](https://www.mathworks.com/products/vehicle-dynamics.html) since Mathworks could not leave the field unoccupied :)
+* [Simulink Vehicle Dynamics Blockset](https://www.mathworks.com/products/vehicle-dynamics.html) 
 * [AVSimulation Callas](https://www.avsimulation.com/callas-vehicle-dynamics-model-runtime/), included in the SCANeR simulation suite.
 * [dSpace ASM Vehicle Dynamics](https://www.dspace.com/en/pub/home/products/sw/automotive_simulation_models/produkte_asm/vehicle_dynamics_models.cfm)
 * [AVL VSM](https://www.avl.com/-/avl-vsm-4-)
