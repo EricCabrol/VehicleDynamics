@@ -15,7 +15,9 @@ NB : the categories below only reflect my personal view. There is no such thing 
 * [Simulink Vehicle Dynamics Blockset](https://www.mathworks.com/products/vehicle-dynamics.html) since Mathworks could not leave the field unoccupied :)
 * [AVSimulation Callas](https://www.avsimulation.com/callas-vehicle-dynamics-model-runtime/), included in the SCANeR simulation suite.
 * [dSpace ASM Vehicle Dynamics](https://www.dspace.com/en/pub/home/products/sw/automotive_simulation_models/produkte_asm/vehicle_dynamics_models.cfm)
+* [AVL VSM](https://www.avl.com/-/avl-vsm-4-)
 * [ChassisSim](https://www.chassissim.com/), with the excellent youtube channel animated by Danny Nowlan. Recently partnered with [Altair](https://altairengineering.fr/chassissim/)
+* [RACE Software](https://race.software/)
 
 ## See also
 * [SimVehicleLT](https://www.faac.com/realtime-technologies/products/simvehiclelt/) (not well known)
