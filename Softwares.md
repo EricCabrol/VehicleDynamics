@@ -28,7 +28,9 @@ NB : the categories below only reflect my personal view. There is no such thing 
 ---
 
 (*) If you want to know more about the difference between multibody solvers and dedicated vehicle dynamics softwares, you can have a look at the sixth slide of my document [Resources for Multibody simulation](https://github.com/EricCabrol/Short_stories/blob/master/multibody_simulation_resources_in_10slides.pdf).
-To make it simple, most softwares from the above list use a symbolic formulation for a predefined topology of the model (see for example the [14dof model](https://www.mathworks.com/help/vdynblks/ug/passenger-vehicle-dynamics-models.html) of Mathworks' VD BlockSet). If you want to add a body with its own dynamic, you can't ! But these softwares are fast, around 10 times faster than real-time.  
-With Adams/Car on the other hand you can do what you want in terms of topology, but it has a strong impact on CPU performance : it depends a lot of the complexity level of the model of course, but with a very rough approximation Adams/Car is 10 times slower than real-time, and Adams-RT is barely fast enough to be used on RT platforms.
+To make it simple, most softwares from the above list use a symbolic formulation for a predefined topology of the model (see for example the [14dof model](https://www.mathworks.com/help/vdynblks/ug/passenger-vehicle-dynamics-models.html) of Mathworks' VD BlockSet).  
+If you want to add a body with its own dynamic, you can't ! But these softwares are fast, around 10 times faster than real-time.  
+
+With Adams/Car on the other hand you can do what you want in terms of topology, but it has a strong impact on CPU performance : it depends a lot on the complexity level of the model of course, but with a very rough approximation Adams/Car is 10 times slower than real-time, and Adams-RT is barely fast enough to be used on RT platforms.
 
 There are of course other major differences between the two families (such as hardpoints vs elasto-kinematic maps), but it would go beyond the scope of this page ...
