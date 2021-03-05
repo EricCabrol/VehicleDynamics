@@ -20,10 +20,11 @@ NB : the categories below only reflect my personal view. There is no such thing 
 * [RACE Software](https://race.software/)
 * [Dynacar](https://www.winemantech.com/products/dynacar-vehicle-simulator/), available as an add-on for NI VeriStand for HIL testing
 
+## See also
+
 There are solutions among the majority of simulation software vendors, but knowing how relevant they are would require a full time survey, which I can't afford :)
 You can have a look at [SimulationX](https://www.simulationx.com/iti/newsdetail/news/driving-maneuvers-models-for-mbs-vehicle-dynamics-simulation.html) by ESI,  [MapleSoft](https://www.maplesoft.com/solutions/engineering/IndustrySolutions/vehicledynamics.aspx), etc ...
 
-## See also
 * [SimVehicle](https://www.faac.com/realtime-technologies/products/simvehiclelt/) (not well known, at least by me)
 * [MapleCar](https://www.maplesoft.com/webinars/recorded/featured.aspx?id=1288) : looks like a student project at that time
 
