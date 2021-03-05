@@ -38,6 +38,7 @@ You can have a look at [SimulationX](https://www.simulationx.com/iti/newsdetail/
 * [MBSymba](http://www.multibody.net/mbsymba/) in the same vein, by Roberto Lot (well known for its academic contributions). But it is Maple based, I think.
 * [DynaV](http://brejaud.pascal.pagesperso-orange.fr/index.htm) (last updated in 2006 !) if you can read french, and are still reading this page ... :) 
 
+OpenModelica used to propose a Vehicle Dynamics library in the early times, but from [this discussion](https://www.openmodelica.org/forum/default-topic/2668-free-vehicle-dynamics-library) it's unlikely that it still works.
 
 ---
 
