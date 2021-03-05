@@ -18,6 +18,7 @@ NB : the categories below only reflect my personal view. There is no such thing 
 * [AVL VSM](https://www.avl.com/-/avl-vsm-4-)
 * [ChassisSim](https://www.chassissim.com/), with the excellent youtube channel animated by Danny Nowlan. Recently partnered with [Altair](https://altairengineering.fr/chassissim/)
 * [RACE Software](https://race.software/)
+* [Dynacar](https://www.winemantech.com/products/dynacar-vehicle-simulator/), available as an add-on for NI VeriStand for HIL testing
 
 ## See also
 * [SimVehicleLT](https://www.faac.com/realtime-technologies/products/simvehiclelt/) (not well known)
