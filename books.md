@@ -2,7 +2,7 @@
 
 ### The reference about tires ###
 
-* **Hans B Pacejka, _Tyre and Vehicle Dynamics_, Butterworth-Heinemann, (2002 - 2006 - 2012)**
+* **Hans B Pacejka, _Tyre and Vehicle Dynamics_, Butterworth-Heinemann, (three editions in 2002 - 2006 - 2012)**
 
 670 pages<br />
 Professor Pacejka from Delft University is the author of the well-known Magic Formula, and his book is definitely an undisputed reference on the subject.
@@ -45,7 +45,16 @@ Professor Jazar also wrote _Advanced Vehicle Dynamics_ published in 2019, rather
 * **Rajesh Rajamani, _Vehicle Dynamics and Control_ (2006 - 2012)**
 
 524 pages<br />
-In the second edition of the book, chapters on roll dynamics, rollover prevention and hybrid electric vehicles have been added, and the chapter on electronic stability control has been enhanced.
+Great book, very clear. Addresses lateral control, longitudinal control, suspension control ... Some ADAS applications are processed, such as automated lane keeping or adaptive cruise-control.  
+In the second edition of the book chapters on roll dynamics, rollover prevention and hybrid electric vehicles have been added, and the chapter on electronic stability control has been enhanced. There's even a chapter about IC engines.
+
+
+* **Karnopp - Vehicle Dynamics, Stability, and Control 2nd ed (2004 - 2013)**
+
+300 pages  
+Dean Karnopp is professor emeritus at UC Davis. The book is not restricted to automobiles, and contains chapters about trailers, two-wheeled and tilting vehicles, aircrafts, rail vehicle dynamics (and also 40 pages of problems at the end).  Covers the basics of stability and control but less thoroughly than Rajamani's book. Karnopp addresses only lateral (yaw) control for example.
+Level : intermediate
+
 
 * **Bruce Minaker, _Fundamentals of Vehicle Dynamics and Modelling_ (2019)**
 
