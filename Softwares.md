@@ -36,7 +36,7 @@ You can have a look at [SimulationX](https://www.simulationx.com/iti/newsdetail/
 * [OpenVD](https://github.com/andresmendes/openvd) by Andres Mendes, available for Octave (free alternative to Matlab)
 * [EoM](https://github.com/BPMinaker/EoM.jl) in Julia, by Bruce Minaker ([his book](https://www.wiley.com/en-bz/Fundamentals+of+Vehicle+Dynamics+and+Modelling:+A+Textbook+for+Engineers+With+Illustrations+and+Examples-p-9781118980095)). Far from a ready to use package, but interesting to understand how the equations are derived
 * [MBSymba](http://www.multibody.net/mbsymba/) in the same vein, by Roberto Lot (well known for its academic contributions). But it is Maple based, I think.
-* PyCar, mentioned [here](https://www.maxwell.vrac.puc-rio.br/33168/33168_4.PDF) but nowhere else (?)
+* [PyCar](https://github.com/aarrietac/pycar_animator), by [Abel Arrieta Castro](https://aarrietac.github.io/academic/project/vitual-test-car/). The software is mentioned [here](https://www.maxwell.vrac.puc-rio.br/33168/33168_4.PDF)
 * [DynaV](http://brejaud.pascal.pagesperso-orange.fr/index.htm) (last updated in 2006 !) if you can read french, and are still reading this page ... :) 
 
 OpenModelica used to propose a Vehicle Dynamics library in the early times, but from [this discussion](https://www.openmodelica.org/forum/default-topic/2668-free-vehicle-dynamics-library) it's unlikely that it still works.
